@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Victor
-- 👀 I’m interested in web development, graphics, FX, and Crypto
+- 👀 I’m interested in Blockchain and web development, graphics, FX, and Crypto
 - 💞️ I’m looking to collaborate on any of the things mentioned above
 - 📫 How to reach me: https://www.linkedin.com/in/ellahvictor/
 
